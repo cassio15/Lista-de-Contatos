@@ -1,0 +1,21 @@
+
+.link{
+	color: #000;
+	background-color: #2a7afe;
+	font-weight: bold;
+}
+
+.link:hover{
+	color: #fff;
+}
+
+.ativo{
+	cursor: auto;
+	/*background-color: #81001f;	*/
+}
+
+
+.texto{
+	font-size: 2em;
+	color: #000;
+}
